@@ -3,7 +3,7 @@ import bodyParser from "body-parser";
 import express from "express";
 import path = require("path");
 import createError from "http-errors";
-const multer = require('multer')
+const multer = require('multer');
 
 const port = 3000;
 
